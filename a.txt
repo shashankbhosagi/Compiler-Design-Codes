@@ -1,0 +1,8 @@
+main()
+{
+int a,b;
+a=b+c;
+if(a<=m)
+a++;
+/*dfdfdf*/
+}
